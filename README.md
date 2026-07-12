@@ -176,12 +176,12 @@ The deployed model predicts
 
 ## Author
 
-**Asgar Hussain**
-**Ankit Ray**
-**Aryan**
+**-Asgar Hussain**
+**-Ankit Ray**
+**-Aryan**
 
 ## Supervisor
-** Dr. Biswajit Ghosh
+**Dr. Biswajit Ghosh
 
 Bachelor of TEchnology (IT)
 
