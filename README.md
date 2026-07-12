@@ -183,7 +183,8 @@ The deployed model predicts
 **Aryan**
 
 ## Supervisor
-**Dr. Biswajit Ghosh
+
+**Dr. Biswajit Ghosh**
 
 Bachelor of TEchnology (IT)
 
