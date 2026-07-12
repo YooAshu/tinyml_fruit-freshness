@@ -186,6 +186,6 @@ The deployed model predicts
 
 **Dr. Biswajit Ghosh**
 
-Bachelor of TEchnology (IT)
+Bachelor of Technology (IT)
 
 Techno Main Salt Lake
