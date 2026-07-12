@@ -176,8 +176,10 @@ The deployed model predicts
 
 ## Author
 
-**-Asgar Hussain**
+**Asgar Hussain**
+</br>
 **-Ankit Ray**
+</br>
 **-Aryan**
 
 ## Supervisor
