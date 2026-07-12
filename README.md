@@ -178,9 +178,9 @@ The deployed model predicts
 
 **Asgar Hussain**
 </br>
-**-Ankit Ray**
+**Ankit Ray**
 </br>
-**-Aryan**
+**Aryan**
 
 ## Supervisor
 **Dr. Biswajit Ghosh
